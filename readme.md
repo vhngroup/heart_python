@@ -1,4 +1,5 @@
 ## Graficamos tu corazon ##
+![Ejemplo](https://github.com/vhngroup/heart_python/blob/main/image/image.png)
 Para usar manim primero deben instalarlo, ya sea con:
 *     pip install manim
      o
